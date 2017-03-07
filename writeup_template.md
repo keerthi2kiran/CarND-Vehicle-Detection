@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./examples/car_not_car.png
 [image2]: ./examples/car_hog.jpg
-[image3]: ./examples/sliding_windows.jpg
+[image3]: ./examples/sliding_windows.png
 [image4]: ./examples/sliding_window.png
 [image5]: ./examples/bboxes_and_heat.png
 [image6]: ./examples/labels_map.png
@@ -79,7 +79,7 @@ Ultimately I searched using YCrCb 3-channel HOG features plus spatially binned c
 ### Video Implementation
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./project_output.mp4)
 
 
 ####2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
